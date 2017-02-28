@@ -43,8 +43,9 @@ padding-bottom: 190px;
 
 
 #contact{
-    background-color: blue;
+    background-image: url("../../assets/backgrounds/subscribe.jpg");
     color: white;
+    padding: 84px
 }
 button{color:white;
 background-color: orange}
@@ -71,9 +72,16 @@ span{
 }
 #float{
     background-image: url("../../assets/backgrounds/foodsBg.jpg");
-    padding-bottom:600px;
+    padding-bottom:556px;padding-top: 100px; padding-bottom: 190px; overflow: hidden;
 
 }
+#float1{
+    background: #259cf8; padding-bottom: 55px; border-radius: 5px;
+text-align-last: center;
+
+
+}
+
 #hh1{
     background-color: green;
     padding-bottom: 90px
@@ -84,4 +92,10 @@ span{
 }
 li {
     display: inline;
+}
+form{
+    color: green;
+}
+#fb{
+    background-image: url();
 }
